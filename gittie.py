@@ -1,5 +1,6 @@
 def introduce():
     print("Hello, I'm Gittie")
+
 introduce()
 
 
@@ -10,3 +11,15 @@ def joke():
     else:
         print('miért nem nyomtal 1-t?')
 joke()
+
+
+
+
+def add():
+    a = 3
+    b = 5
+    c = a + b
+    return c
+
+print(add())
+
