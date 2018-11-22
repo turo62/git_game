@@ -19,3 +19,6 @@ def add():
     return c
 
 print(add())
+ 
+def shout():
+    print("vége")
