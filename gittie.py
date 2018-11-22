@@ -1,5 +1,5 @@
 def introduce():
-    print("Hello, I'm Gittie")
+    print("Akármit is nyomtathatok! :)")
 
 introduce()
 
@@ -12,9 +12,6 @@ def joke():
         print('miért nem nyomtal 1-t?')
 joke()
 
-
-
-
 def add():
     a = 3
     b = 5
@@ -22,4 +19,3 @@ def add():
     return c
 
 print(add())
-
